@@ -1,1 +1,1 @@
-hello
+JavaScript本格入門
