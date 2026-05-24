@@ -1,1 +1,1 @@
-JavaScript本格入門
+JavaScriptはブラウザでの操作を経験してきましたが、React,Nodeを学ぶために入門から始めています。
