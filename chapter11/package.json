@@ -1,0 +1,23 @@
+{
+  "name": "chapter11",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "lint": "eslint *.js",
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/decimal.js": "^0.0.32",
+    "@types/jest": "^30.0.0",
+    "eslint": "^10.4.1",
+    "globals": "^17.6.0",
+    "jest": "^30.4.2",
+    "jsdoc": "^4.0.5"
+  }
+}
